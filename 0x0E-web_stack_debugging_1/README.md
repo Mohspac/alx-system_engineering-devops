@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Web stack debugging #1
 
 This was the second in a series of web stack debugging projects. In these
@@ -16,3 +17,13 @@ web stack.
   * [1-debugging_made_short](./1-debugging_made_short): Bash script that
   configures Nginx to listen to port 80 without running on all of a server's
   active IPv4's.
+=======
+0x0E. Web stack debugging #1
+Tasks:
+0. Nginx likes port 80
+
+0-nginx_likes_port_80: Bash script that configures Nginx to run and listen to port 80 on all of a server's active IPv4's.
+1. Make it sweet and short
+
+1-debugging_made_short: Bash script that configures Nginx to listen to port 80 without running on all of a server's active IPv4's.
+>>>>>>> 87d3786c0b8ced20f7720c8466ce4e81f9de36a8
